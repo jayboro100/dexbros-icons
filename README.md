@@ -2,12 +2,13 @@
 
 ## Installation
 
-`npm i dexbros-icons`
+`npm install --save https://github.com/jayboro100/dexbros-icons`
 
 
 ## Usage
 
 ```html
+import 'dexbros-icons/styles.css';
 <span class="icon icon-btc"></span>
 ```
 
